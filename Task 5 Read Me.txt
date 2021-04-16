@@ -1,0 +1,25 @@
+# gripapril21 #task5 #thesparksfoundation
+
+
+Task 5 : Exploratory Data Analysis - Sports
+(Level - Advanced)
+
+Author : Bhavinkumar Patel
+
+#gripapril21
+
+● Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
+
+● As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
+
+● Suggest teams or players a company should endorse for its products.
+
+● Tool Used :- (Python) Jupyter Notebook
+
+● Advanced Level - Create storyboards. Screen-record along with audio explaining the charts and interpretations. Use annotations, animation and images.
+
+● Dataset: https://bit.ly/34SRn3b
+
+● GitHub.com - https://github.com/bhavinpatel-DS/gripapril21-Task5.git
+
+● YouTube.com - https://youtu.be/RhiNIp2oGkM
